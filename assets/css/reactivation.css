@@ -1,0 +1,19 @@
+/*========== HEADER ==========*/
+.header__container{
+    justify-items: center;
+    gap: 1.875rem;
+}
+
+.header__data{
+    justify-items: center;
+    text-align: center;
+    row-gap: 1.25rem;
+    background-color: var(--white-color);
+    border-radius: .625rem;
+    padding: 1.25rem;
+}
+
+/* 
+    This page did not need to be adapted 
+    for any other device
+*/
